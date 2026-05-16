@@ -1,0 +1,31 @@
+﻿tema,titulo,arquivo,linhas,colunas
+1,Evolução dos Casos de Dengue no Brasil,simulacao_dengue_brasil.csv,4440,14
+2,Chuvas e Deslizamentos no Estado do Rio de Janeiro,simulacao_chuvas_deslizamentos_rj.csv,960,14
+3,Análise de Queimadas no Brasil,simulacao_queimadas_brasil.csv,2400,13
+4,Evolução do Desemprego no Brasil,simulacao_desemprego_brasil.csv,800,14
+5,Acidentes de Trânsito no Brasil,simulacao_acidentes_transito_brasil.csv,8880,15
+6,Produção de Energia no Brasil,simulacao_producao_energia_brasil.csv,14400,13
+7,Consumo de Água no Brasil,simulacao_consumo_agua_brasil.csv,4440,14
+8,Qualidade do Ar nas Grandes Cidades Brasileiras,simulacao_qualidade_ar_brasil.csv,4440,15
+9,Cobertura Vacinal no Brasil,simulacao_cobertura_vacinal_brasil.csv,4440,14
+10,Evasão Escolar no Ensino Médio Brasileiro,simulacao_evasao_escolar_brasil.csv,1480,15
+11,Variação dos Preços de Combustíveis no Brasil,simulacao_precos_combustiveis_brasil.csv,4440,14
+12,Mercado Imobiliário Brasileiro,simulacao_mercado_imobiliario_brasil.csv,4440,16
+13,Vendas em E-commerce no Brasil,simulacao_ecommerce_brasil.csv,4440,16
+14,Consumo de Energia Elétrica no Brasil,simulacao_consumo_energia_brasil.csv,4440,14
+15,Criminalidade em Grandes Cidades Brasileiras,simulacao_criminalidade_brasil.csv,4440,15
+16,Mobilidade Urbana e Transporte Público no Brasil,simulacao_mobilidade_urbana_brasil.csv,4440,14
+17,Indicadores Econômicos do Brasil,simulacao_indicadores_economicos_brasil.csv,40,14
+18,Turismo no Brasil,simulacao_turismo_brasil.csv,4440,14
+19,Desmatamento e Preservação Ambiental no Brasil,simulacao_desmatamento_brasil.csv,4440,14
+20,Redes Sociais e Engajamento Digital,simulacao_redes_sociais_brasil.csv,4440,15
+21,Streaming de Música e Filmes,simulacao_streaming_brasil.csv,4440,14
+22,Dados Climáticos no Brasil,simulacao_clima_brasil.csv,4440,14
+23,Indicadores de Saúde Pública no Brasil,simulacao_saude_publica_brasil.csv,4440,14
+24,Desempenho Escolar no Brasil,simulacao_desempenho_escolar_brasil.csv,740,15
+25,Mercado de Trabalho em TI,simulacao_mercado_ti_brasil.csv,4440,14
+26,Segurança Cibernética e Ataques Digitais,simulacao_ciberseguranca_brasil.csv,4440,14
+27,Acidentes de Trânsito no Brasil - Tema 27,simulacao_acidentes_transito_brasil_tema27.csv,4440,15
+28,Sistema Financeiro e Crédito no Brasil,simulacao_sistema_financeiro_brasil.csv,4440,14
+29,Produção Agrícola no Brasil,simulacao_producao_agricola_brasil.csv,4440,14
+30,Startups e Inovação Tecnológica no Brasil,simulacao_startups_brasil.csv,4440,15
