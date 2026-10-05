@@ -1,4 +1,4 @@
-# Datasets simulados para Avaliação G2
+# Datasets simulados para Avaliação G1
 
 ## Tema 1 — Evolução dos Casos de Dengue no Brasil
 Arquivo: `simulacao_dengue_brasil.csv` | Linhas: 4440 | Colunas: 14
